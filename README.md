@@ -12,11 +12,12 @@ The following **required** functionality is completed:
 - [x] Display popular git repos
 - [ ] User can search for a specfic repo
 
+## Video Walkthrough 
 
-## Video Tutorial for CodePath apprentices
-("https://www.youtube.com/watch?v=hRFsmlNtYww")
+Here's a walkthrough of implemented user stories:
 
-## Notes
+![Walkthrough](DemoAppFunds.gif	)
+GIF created with [LiceCap](http://www.cockos.com/licecap/).## Notes
 
 Describe any challenges encountered while building the app.
 
